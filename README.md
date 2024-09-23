@@ -2,7 +2,7 @@
 
 <u>_Before you continue_ 🧐</u>
 
-> Commands denoted by 🐱‍👤 are `privileged` meaning the user must have a role named `bBot` to be able to use that command.
+> Commands denoted by 🐱‍👤 are `privileged` meaning the user must have a role named `utBot` to be able to use that command.
 
 > Commands denoted by 😸 can be used by `everyone`.
 

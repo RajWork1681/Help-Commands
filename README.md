@@ -11,7 +11,7 @@
 **register** 🐱‍👤<br/>
 `Usage -> .register`
 
-Registers your discord server with bBot. This is the `first` command you should be using after the bot is invited to your discord server.
+Registers your discord server with utBot. This is the `first` command you should be using after the bot is invited to your discord server.
 
 **setpugchannel** 🐱‍👤<br/>
 `Usage -> .setpugchannel`
